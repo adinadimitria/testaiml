@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
   <category>
-    <pattern>*</pattern>
-    <template>I have no answer for that.</template>
+    <pattern>SALUT</pattern>
+    <template>Salut! Cu ce te pot ajuta?</template>
   </category>
+  
+  
 </aiml>
